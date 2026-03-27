@@ -2,7 +2,8 @@
     "Name": "Precise vs. Approximate Numeracy in Stroke Participants",
     "BIDSVersion": "1.10.0",
     "DatasetType": "derivative",
-    "Authors": ["Erin Duricy",
+    "Authors": [
+	"Erin Duricy",
         "Corrine Durisko",
         "Julie A. Fiez"
     ],
