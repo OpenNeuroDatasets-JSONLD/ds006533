@@ -26,5 +26,22 @@
 	"education_years":{
 		"Description": "Years of formal education that the participant completed",
 		"Units": "Years"
+	},
+	"FA1_factor1_score":{
+		"Description": "Factor loading score for the first factor derived from Math and Language Tasks Factor Analysis",
+		"Units": "Factor Score"
+	},
+	"FA1_factor2_score":{
+		"Description": "Factor loading score for the second factor derived from Math and Language Tasks Factor Analysis",
+		"Units": "Factor Score"
+	},
+	"FA2_factor1_score":{
+		"Description": "Factor loading score for the first factor derived from the exploratory EC301 Math Factor Analysis",
+		"Units": "Factor Score"
+	},
+	"FA2_factor2_score":{
+		"Description": "Factor loading score for the second factor derived from the exploratory EC301 Math Factor Analysis",
+		"Units": "Factor Score"
 	}
+
 }
