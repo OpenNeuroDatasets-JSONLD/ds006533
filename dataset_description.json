@@ -3,9 +3,15 @@
     "BIDSVersion": "1.10.0",
     "DatasetType": "derivative",
     "Authors": [
-	"Erin Duricy",
-        "Corrine Durisko",
+{
+	"Erin Duricy"
+	},
+{
+        "Corrine Durisko"
+	},
+{
         "Julie A. Fiez"
+	}
     ],
     "Funding": [
         "National Institute of Health Grant F31DC020370-03",
