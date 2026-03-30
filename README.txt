@@ -6,6 +6,6 @@ This dataset corresponds to the data described in: Duricy E, Durisko C, Fiez J.A
 
 v2.0.0: This version expands the dataset to include additional behavioral and imaging data for a sample of  left hemisphere chronic stroke survivors. 
 
-Notable changes include the addition of a new subject (sub-105), factor loading scores for four factors derived from two factor analyses as reported in the manuscript listed above, and the inclusion of non-smoothed lesion masks for all subjects.
+Notable changes include the addition of a new subject (sub-105), factor loading scores for four factors derived from two factor analyses as reported in the manuscript listed below, and the inclusion of non-smoothed, normalized lesion masks for all subjects.
 
 This dataset corresponds to the data described in: Duricy E, Durisko C, Fiez J.A. (2026). Using data-driven, lesion-symptom mapping to study the relationship between neural and theoretical components of numeracy. In review at Neuropsychologia."
