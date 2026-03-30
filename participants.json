@@ -1,7 +1,10 @@
 {
 	"image_modality":{
 		"Description": "Modality in which structural images were acquired, either research-grade or clinical-grade and MR or CT",
-		"Units": "Image Type"
+		"Levels": {
+			"research_MR": "research-grade MR image",
+			"clinical_MR": "clinical MR image from medical record",
+			"clinical_CT": "clinical CT image from medical record"
 	},
 	"approximate_numeracy":{
 		"Description": "Z-score of performance on a computer-based dot comparison task",
